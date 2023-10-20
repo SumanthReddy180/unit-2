@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "652efa8878b89f4c9f28abe4"
+  },
+  "Name": "Hardik",
+  "jerseyNumber": 33,
+  "position": "infield",
+  "wicketstaken": 2,
+  "runs scored": 20,
+  "catches": 2,
+  "bowlingovers": 4
+}]

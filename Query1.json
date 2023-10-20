@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "652efa8878b89f4c9f28abe2"
+  },
+  "Name": "Dhoni",
+  "jerseyNumber": 7,
+  "position": "wicket keeper",
+  "wicketstaken": 2,
+  "runs scored": 49,
+  "catches": 1,
+  "bowlingovers": 0
+},
+{
+  "_id": {
+    "$oid": "652efa8878b89f4c9f28abe6"
+  },
+  "Name": "KL Rahul",
+  "jerseyNumber": 1,
+  "position": "infield",
+  "wicketstaken": 1,
+  "runs scored": 50,
+  "catches": 1,
+  "bowlingovers": 0
+}]
