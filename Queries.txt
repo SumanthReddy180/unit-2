@@ -1,0 +1,5 @@
+{ "jerseyNumber": { $lt: 10 } }
+{ "position": "wicket keeper" }
+{ "wicketstaken": { $gte: 2 } }
+{ "runs scored": { $gt: 40 } }
+{ "bowlingovers": { $gte: 4 } }
